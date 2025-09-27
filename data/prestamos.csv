@@ -1,0 +1,16 @@
+id_prestamo,id_libro,usuario,dias_prestamo,estado
+1,1,Juan Pérez,7,Devuelto
+2,1,Ana Gómez,10,Prestado
+3,2,Carlos Ruiz,15,Devuelto
+4,5,Lucía Torres,20,Prestado
+5,9,Pedro Castro,5,Devuelto
+6,2,María López,12,Prestado
+7,7,Andrés Silva,8,Retrasado
+8,10,Valentina Rojas,14,Prestado
+9,4,Camila Pérez,30,Devuelto
+10,6,Fernando Ruiz,9,Prestado
+11,8,Laura Gómez,11,Prestado
+12,3,Marta Díaz,18,Devuelto
+13,15,Luis Morales,7,Prestado
+14,11,Samuel Ortiz,16,Retrasado
+15,12,Daniela Jiménez,6,Prestado

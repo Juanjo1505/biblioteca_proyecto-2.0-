@@ -1,0 +1,16 @@
+id_libro,titulo,autor,categoria,precio
+1,Cien años de soledad,Gabriel García Márquez,Novela,45000
+2,El amor en los tiempos del cólera,Gabriel García Márquez,Novela,47000
+3,La casa de los espíritus,Isabel Allende,Novela,42000
+4,Don Quijote de la Mancha,Miguel de Cervantes,Novela,60000
+5,Ficciones,Jorge Luis Borges,Cuento,28000
+6,El Aleph,Jorge Luis Borges,Cuento,27000
+7,La sombra del viento,Carlos Ruiz Zafón,Novela,45000
+8,Los detectives salvajes,Roberto Bolaño,Novela,39000
+9,El Principito,Antoine de Saint-Exupéry,Infantil,20000
+10,Harry Potter y la piedra filosofal,J.K. Rowling,Infantil,35000
+11,Rayuela,Julio Cortázar,Novela,40000
+12,Pedro Páramo,Juan Rulfo,Novela,25000
+13,Siddhartha,Hermann Hesse,Novela,22000
+14,El túnel,Ernesto Sabato,Novela,15000
+15,Crónica de una muerte anunciada,Gabriel García Márquez,Novela,38000
