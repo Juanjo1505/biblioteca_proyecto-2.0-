@@ -7,20 +7,6 @@ Incluye:
 - Datos de ejemplo en `data/libros.csv` y `data/prestamos.csv` (cada uno con >= 20 registros).
 - `requirements.txt` con dependencias.
 
-## Requisitos
-- Python 3.8+
-- pip
-
-## Instalación rápida (Linux / macOS / Windows WSL)
-```bash
-python -m venv env
-# activar el entorno:
-# Linux/macOS: source env/bin/activate
-# Windows: .\env\Scripts\activate
-pip install -r requirements.txt
-python analisis.py
-```
-
 ## Qué hace el script `analisis.py`
 1. Carga y limpia los datos de `data/libros.csv` y `data/prestamos.csv`.
 2. Realiza:
@@ -41,5 +27,4 @@ biblioteca_proyecto/
 ├─ requirements.txt
 └─ README.md
 ```
-
-Si quieres, también puedo preparar un repositorio Git con Git Flow (branches, PR templates) — dime si lo quieres.
+cd 'C:\Users\desarrollo\Downloads\biblioteca_proyecto (2.0)\biblioteca_proyecto\biblioteca_proyecto'
